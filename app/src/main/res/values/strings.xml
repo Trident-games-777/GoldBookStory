@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GoldBookStory</string>
+    <string name="gold_book_story">Gold Book Story</string>
+    <string name="fb_id">575412077321654</string>
+    <string name="fb_token">ba1138dd74685392699683c403026a92</string>
+    <string name="start">Start</string>
+    <string name="credits">Credits: %1$d</string>
+    <string name="points">Points: %1$d</string>
+    <string name="spin">Next</string>
+</resources>
